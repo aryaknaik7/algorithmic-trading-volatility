@@ -83,11 +83,5 @@ This notebook performs:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## 👨‍💻 Author
-
-Dhiren Motwani
-[Portfolio](https://www.dhirenmotwani.com/) | [LinkedIn](https://www.linkedin.com/in/dhirenmotwani/) | [GitHub](https://github.com/dhirenmotwani)
 
 
